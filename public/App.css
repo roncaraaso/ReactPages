@@ -1,0 +1,29 @@
+.Btn{
+    float: right;
+    border-radius: 15px;
+    
+  }
+  .helloSay{
+    display: flex;
+    float:left
+  }
+  
+  
+  
+  .mainDiv{
+  width:50% ;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .width{
+    width: 50%;
+  }
+  .floatRight{
+  
+    display: flex;
+  }
+  body{
+    background-image: url("./104815.jpg");
+    background-size:cover ;
+    margin-left: 20px;
+  }
